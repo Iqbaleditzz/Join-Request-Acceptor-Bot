@@ -11,7 +11,7 @@
 - <b>`API_ID` : Get From [my.telegram.org](https://my.telegram.org)
 - `API_HASH` : Get From [my.telegram.org](https://my.telegram.org)
 - `BOT_TOKEN` : Get From [BotFather](https://telegram.me/BotFather)
-- `DB_URI` : Mongodb Database Url [Tutorial Watch Here](https://youtu.be/DAHRmFdw99o)
+- `DB_URI` : Mongodb Database Url 
 - `ADMINS` : It mean Admin/Owner Id For Broadcasting Message.
 - `LOG_CHANNEL` : Log channel id start with -100xxxxxx</b>
 
@@ -22,8 +22,8 @@
 - `/logout` : logout your telegram account 
 - `/broadcast` : reply this command to your broadcast message in bot.</b>
 
-## Update Channel [VJ Botz](https://telegram.me/iqbaleditzzz)
+## Update Channel [Botz](https://telegram.me/iqbaleditzzz)
 
-## Support Group [VJ Support](https://telegram.me/iqbaleditzz)
+## Support Group [Support](https://telegram.me/iqbaleditzz)
 
 ## Credit - [Tech VJ](#)
